@@ -1,0 +1,65 @@
+/*
+File Name comments.css
+Version 1.0
+Updated 03.14.14
+Package ParentTheme
+License GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+#################################################################################################### */
+
+
+#section-comments {
+	.h4 {
+		padding-bottom:15px;
+	}
+	.list-comments {
+		.comment {
+			padding-top:30px;
+		}
+		.comment:first-child {
+			padding-top:0;
+		}
+		.comment-body {}
+		.comment-details-block {}
+		.comment-author {
+			@extend .h5;
+			padding-bottom:5px;
+		}
+		.comment-date {
+			padding-bottom:10px;
+		}
+		.comment-text-block-wrap {}
+		.comment-text-block {}
+		p {
+			padding-bottom:15px;
+		}
+		.reply {
+			a {}
+		}
+	}
+}
+
+
+
+#respond {
+	margin-top:30px;
+	.comment-reply-title {
+		small {
+			a {}
+		}
+	}
+	form {
+		p {
+			padding-bottom:10px;
+		}
+		label {}
+		input {}
+		input[type="submit"] {}
+		textarea {}
+		.comment-notes {}
+		.comment-form-author {}
+		.comment-form-email {}
+		.comment-form-url {}
+		.comment-form-comment {}
+		.form-submit {}
+	}
+}
