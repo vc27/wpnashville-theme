@@ -10,6 +10,9 @@ Issues, Notes, Current task
 ChangeLog
 ====================
 
+### 02.27.16 - v-2.7.0 randy-c-7.1
+- add single column template
+
 ### 02.27.16 - v-2.6.0 randy-c-7.0
 - update repo again
 
