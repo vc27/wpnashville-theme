@@ -10,6 +10,9 @@ Issues, Notes, Current task
 ChangeLog
 ====================
 
+### 03.01.16 - v-2.8.0 randy-c-8.0
+- add single-job_listing.php as a single column
+
 ### 02.27.16 - v-2.7.0 randy-c-7.1
 - add single column template
 
